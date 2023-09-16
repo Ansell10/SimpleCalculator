@@ -1,0 +1,16 @@
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.exe
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.deps.json
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.runtimeconfig.json
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.dll
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\bin\Debug\net6.0-windows\SimpleCalculator.pdb
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.Form1.resources
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.csproj.GenerateResource.cache
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.AssemblyInfoInputs.cache
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.AssemblyInfo.cs
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.csproj.CoreCompileInputs.cache
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.dll
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\refint\SimpleCalculator.dll
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.pdb
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\SimpleCalculator.genruntimeconfig.cache
+E:\smt5\PBKK\SimpleCalculator\SimpleCalculator\obj\Debug\net6.0-windows\ref\SimpleCalculator.dll
